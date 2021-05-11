@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/PhotoShare/static/css/main.17217219.chunk.css",
-    "main.js": "/PhotoShare/static/js/main.dd6aa1ac.chunk.js",
-    "main.js.map": "/PhotoShare/static/js/main.dd6aa1ac.chunk.js.map",
+    "main.css": "/PhotoShare/static/css/main.1f35436e.chunk.css",
+    "main.js": "/PhotoShare/static/js/main.660ad224.chunk.js",
+    "main.js.map": "/PhotoShare/static/js/main.660ad224.chunk.js.map",
     "runtime-main.js": "/PhotoShare/static/js/runtime-main.6de09928.js",
     "runtime-main.js.map": "/PhotoShare/static/js/runtime-main.6de09928.js.map",
     "static/js/2.81b9487e.chunk.js": "/PhotoShare/static/js/2.81b9487e.chunk.js",
     "static/js/2.81b9487e.chunk.js.map": "/PhotoShare/static/js/2.81b9487e.chunk.js.map",
     "index.html": "/PhotoShare/index.html",
-    "static/css/main.17217219.chunk.css.map": "/PhotoShare/static/css/main.17217219.chunk.css.map",
+    "static/css/main.1f35436e.chunk.css.map": "/PhotoShare/static/css/main.1f35436e.chunk.css.map",
     "static/js/2.81b9487e.chunk.js.LICENSE.txt": "/PhotoShare/static/js/2.81b9487e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6de09928.js",
     "static/js/2.81b9487e.chunk.js",
-    "static/css/main.17217219.chunk.css",
-    "static/js/main.dd6aa1ac.chunk.js"
+    "static/css/main.1f35436e.chunk.css",
+    "static/js/main.660ad224.chunk.js"
   ]
 }
