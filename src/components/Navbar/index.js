@@ -11,7 +11,7 @@ export default function Navbar({user = null}){
 
     return(
         <nav className="bg-white h-12 fixed w-screen">
-            <ul className="h-full sm:w-4/6 m-auto flex justify-end items-center">
+            <ul className="h-full sm:w-4/6 m-auto flex justify-start sm:justify-end items-center">
                 <Button text='Home' className='hidden sm:block'/>
                 <Button text='Random' className='hidden sm:block'/>
 
