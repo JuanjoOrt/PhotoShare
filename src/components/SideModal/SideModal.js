@@ -1,10 +1,10 @@
-import './SideModal.scss'
+import './SideModal.css'
 
 export default function SideModal({visible}){
+    const visibleClass = visible ? 'sidebar-visible' : 'sidebar-novisible';
 
-
-    return visible && (
-        <div className> 
+    return (
+        <div className={`sidebar ${visibleClass} sm:hidden`}> 
             asd
         </div>
     )
